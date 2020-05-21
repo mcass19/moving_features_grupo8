@@ -1,0 +1,17 @@
+{
+  "name": "moving-features-app",
+  "version": "1.0.0",
+  "description": "A simple JavaScript app with Cesium, the open-source WebGL virtual globe and map engine.",
+  "homepage": "http://cesium.com",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcass19/moving_features_grupo8"
+  },
+  "dependencies": {
+    "express": "^4.15"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
